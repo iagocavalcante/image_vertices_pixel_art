@@ -1,6 +1,6 @@
 # Generate vertices for images
 
-This projects emerge from a personal project built with flutter and a needed to create a polygon hitbox to improve collision
+This project emerge from a personal project built with flutter and a needed to create a polygon hitbox to improve collision
 for the players, the output is an image with highlighted version of the input image and a Vector2 array for flutter
 flame, then its just need to copy the array and put into the flame array list for vertices.
 
